@@ -1,4 +1,4 @@
-![Visitor counter](https://visitor-badge.laobi.icu/badge?page_id=0xk0sta.0xk0sta)
+![Visitor counter](https://visitor-badge.laobi.icu/badge?page_id=NullOnSec.NullOnSec)
 
 ## Overview
 
@@ -10,6 +10,6 @@
 ## GIT Stats
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xk0sta&show_icons=true&count_private=true&hide=contribs&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NullOnSec&show_icons=true&count_private=true&hide=contribs&theme=dark)
 
-![GIT MostUsedLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xk0sta&layout=compact&exclude_repo=ft_server&langs_count=100&theme=dark)
+![GIT MostUsedLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullOnSec&layout=compact&exclude_repo=ft_server&langs_count=100&theme=dark)
